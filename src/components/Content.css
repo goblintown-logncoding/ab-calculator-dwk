@@ -1,0 +1,13 @@
+.content-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.input-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.calculate-button {
+    width: 100%
+}
